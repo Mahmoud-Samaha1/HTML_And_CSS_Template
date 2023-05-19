@@ -282,6 +282,7 @@ body{
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     grid-gap:20px;
+    margin-top: 50px;
 }
 .features .feat:hover{
     box-shadow: 3px 4px 4px #0000005e;
